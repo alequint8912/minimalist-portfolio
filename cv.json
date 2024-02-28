@@ -1,0 +1,301 @@
+{
+  "basics": {
+    "name": "Alejandro Quintero Sánchez",
+    "label": "I am a passionate JavaScript developer with a strong skill set in key technologies for software development.",
+    "image": "/alejandro.webp",
+    "email": "alequint8912@gmail.com",
+    "phone": "+53 53614001",
+    "url": "",
+    "summary": "I am a passionate JavaScript developer with a strong skill set in key technologies for software development. My expertise includes building web and mobile applications using React and React Native, as well as creating server-side solutions with Express.js. I also have experience working with databases like MongoDB and take pride in writing clean, maintainable code. My focus is on constructing scalable and high-quality solutions from design through implementation and maintenance. Additionally, I am familiar with version control via Git and understand the basics of security in web and mobile applications. I am committed to continuous learning and excited to tackle new challenges to enhance my skills and contribute to the success of innovative projects. I am seeking remote work opportunities where I can apply and expand my technical skills in a dynamic team environment.",
+    "location": {
+      "address": "",
+      "postalCode": "40100",
+      "city": "Matanzas",
+      "countryCode": "CU",
+      "region": "Cuba"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alequint8912",
+        "url": "https://www.linkedin.com/in/alejandro-quintero-7000b6185/"
+      },
+      {
+        "network": "X",
+        "username": "alequint8912",
+        "url": "https://twitter.com/alequint8912"
+      },
+      {
+        "network": "GitHub",
+        "username": "alequint8912",
+        "url": "https://github.com/alequint8912"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Calarix Consulting",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "summary": "I work as a Full Stack Developer in JavaScript, using technologies such as React, React Native, ExpressJS, and MongoDB to develop web and mobile applications, ensuring a smooth and efficient user experience.",
+      "highlights": []
+    },
+    {
+      "name": "Periódico Girón",
+      "position": "Full Stack Developer",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2020-01-20",
+      "endDate": null,
+      "summary": "I take advantage of my technical training to address communication challenges by developing websites and creating Journalistic Dossiers, currently serving as Webmaster of the institutional site and contributing to the development team of a new institutional website.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Matanzas",
+      "url": "https://www.umcc.cu/",
+      "area": "Ingeniería Informática",
+      "studyType": "Bachelor",
+      "startDate": "2008-09-01",
+      "endDate": "2013-07-01",
+      "score": "4.12",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Redux",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sitio Web Periódico Girón",
+      "isActive": true,
+      "description": "In an outstanding project, a digital newspaper was developed for the province of Matanzas, Cuba, which is distinguished by its adaptability and its integration with WordPress.",
+      "highlights": [
+        "En desarrollo"
+      ],
+      "url": "https://periodicogiron.vercel.app"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
