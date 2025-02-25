@@ -34,11 +34,20 @@
   },
   "work": [
     {
+      "name": "Innovasoft",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "summary": "I currently work as a Full Stack Developer, specializing in JavaScript (React, Node.js, Express.js) and, although it is not my primary stack, also in Python with FastAPI. Throughout my experience at the company, I have been involved in the development of innovative projects that go beyond conventional management systems, contributing to the creation of advanced tools. Notable projects include ApiNoCode, a NoCode platform similar to Make.com that enables the integration of external and in-house applications, and Velo, an artificial intelligence tool with multiple functionalities. My role encompasses both frontend and backend development, participating in all stages of the development cycle, from conceptualization to production deployment. During this time, I have enhanced my ability to adapt to new technologies and strengthened my technical and professional skills.",
+      "highlights": []
+    },
+    {
       "name": "Calarix Consulting",
       "position": "Full Stack Developer",
       "url": "",
       "startDate": "2018-02-01",
-      "endDate": null,
+      "endDate": "2023-01-01",
       "summary": "I work as a Full Stack Developer in JavaScript, using technologies such as React, React Native, ExpressJS, and MongoDB to develop web and mobile applications, ensuring a smooth and efficient user experience.",
       "highlights": []
     },
@@ -131,27 +140,7 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
+      "name": "NodeJs",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
@@ -208,6 +197,39 @@
       "name": "React Native",
       "level": "Avanzado",
       "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "ExpressJS",
+      "level": "Avanzado",
+      "keywords": [
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Redux",
+      "level": "Avanzado",
+      "keywords": [
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Basico",
+      "keywords": [
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "FastApi",
+      "level": "Basico",
+      "keywords": [
+        "Fullstack"
+      ]
     }
   ],
   "languages": [
@@ -237,65 +259,76 @@
   ],
   "projects": [
     {
-      "name": "Sitio Web Periódico Girón",
+      "name": "ApiNoCode",
       "isActive": true,
+      "description": "ApiNoCode is a NoCode platform designed to facilitate the integration of external and proprietary applications within a digital ecosystem, similar to Make.com. Its goal is to allow users to create automation flows without the need for programming, using a visual interface based on interconnected nodes.",
+      "highlights": [
+        "developing",
+        "react",
+        "redux",
+        "nodeJS",
+        "expressJS",
+        "axios",
+        "yup"
+      ],
+      "url": null
+    },
+    {
+      "name": "Velo",
+      "isActive": true,
+      "description": "Velo is an advanced artificial intelligence platform designed to offer solutions based on generative AI, process automation and data analysis. Its main goal is to allow users to query specific files, generate intelligent content, and trigger automated workflows based on predefined events.",
+      "highlights": [
+        "developing",
+        "python",
+        "fastapi",
+        "mongodb",
+        "react",
+        "redux"
+      ],
+      "url": null
+    },
+    {
+      "name": "Sitio Web Periódico Girón",
+      "isActive": false,
       "description": "In an outstanding project, a digital newspaper was developed for the province of Matanzas, Cuba, which is distinguished by its adaptability and its integration with WordPress.",
       "highlights": [
-        "En desarrollo"
+        "styled-components",
+        "react",
+        "redux",
+        "nodeJS",
+        "expressJS",
+        "wordpress REST API",
+        "axios",
+        "yup",
+        "react-hook-form"
       ],
       "url": "https://periodicogiron.vercel.app"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Dossier Supertanqueros",
+      "isActive": false,
+      "description": "This project involved the development of a static website dedicated to collecting and sharing experiences, coverage, testimonies and images of the disaster at the Matanzas Supertanker Base, considered one of the most significant events in the province of Matanzas, Cuba.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "vanilla extract",
+        "javaScript",
+        "infinite scroll",
+        "react"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://periodicogiron.vercel.app"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Iberostar Hotels Membership",
+      "isActive": false,
+      "description": "The objective is to manage the sale of hotel memberships in the Iberostar Hotels chain, based in Cancun.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "redux",
+        "react native",
+        "mongodb",
+        "expressJS",
+        "react navigation",
+        "reanimated 2"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://periodicogiron.vercel.app"
     }
   ]
 }
